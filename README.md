@@ -8,6 +8,14 @@ I have a Ph.D. in Computer Science and I love working with multi-disciplinary te
 
 Some technologies I enjoy working with include **NodeJS, ReactJS, and of course Python!** :) 
 
+## Check out my projects! 🤝
+
+- Excel: <a href="https://www.linkedin.com/in/mehmet-celepkolu/">Excel</a> 🌐
+- Visualizations: <a href="https://mckolu.github.io/">PowerBI</a>  🏠 
+
+
+
+
 ## Let's Connect! 🤝
 
 - My home: <a href="https://www.linkedin.com/in/mehmet-celepkolu/">LinkedIn</a> 🌐
